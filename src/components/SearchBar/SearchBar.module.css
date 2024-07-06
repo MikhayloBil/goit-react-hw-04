@@ -1,0 +1,25 @@
+.header {
+  width: 100%;
+  height: 40px;
+  background-color: blueviolet;
+  display: flex;
+  justify-content: center;
+}
+
+.form {
+  display: flex;
+  gap: 8px;
+  padding: 10px;
+}
+
+.btn {
+  background-color: rebeccapurple;
+  color: azure;
+  border-radius: 8px;
+}
+
+.input {
+  border-color: blueviolet;
+  border-radius: 6px;
+  width: 300px;
+}

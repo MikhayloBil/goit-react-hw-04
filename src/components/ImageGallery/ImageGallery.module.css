@@ -1,0 +1,15 @@
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  list-style: none;
+  justify-content: center;
+}
+
+.li {
+  cursor: pointer;
+  margin: 10px;
+  width: 300px;
+  height: 250px;
+  overflow: hidden;
+}
